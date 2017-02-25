@@ -13,7 +13,8 @@ Change in to the directory where you cloned the repo, edit the **rundownloader.b
 
 The scripts etc are set up simply for Windows CMD shell. If you want to use this on UNIX/OSX etc, it's even easier. Just use your favourite package manager and write a small script in whatever language appeals to you most.
 
-**youtube-dl.exe** is written in python and is cross platform, as is **ffmpeg**.
+**youtube-dl.exe** is written in python and is cross platform.
+**ffmpeg** is written in C and Assembly and is also cross platform.
 
 
 Credit:
