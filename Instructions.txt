@@ -1,0 +1,16 @@
+This script/program requires:
+
+1. youtube-dl.exe
+
+Download it from http://rg3.github.io/youtube-dl/download.html
+
+2. an ffmpeg binary for conversion
+
+http://ffmpeg.zeranoe.com/builds
+
+----------------
+
+
+Not ALL videos will be downloadable. Some will fail depending on the copywrite etc on the vid itself.
+
+"60% of the time; it works every time".

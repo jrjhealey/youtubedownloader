@@ -1,0 +1,1 @@
+youtube-dl.exe PASTE_YOUR_URL_HERE -i --yes-playlist -x --audio-format "mp3" --prefer-ffmpeg --yes-playlist --ffmpeg-location .\ffmpeg\bin\ffmpeg.exe --output ".\results\%%(title)s.%%(ext)s"
